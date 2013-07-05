@@ -1,0 +1,22 @@
+[user]
+	name = Tim Messerschmidt
+	email = timmesserschmidt@googlemail.com
+[core]
+	excludesfile = /Users/tmesserschmidt/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[color]
+	ui = auto
+[credential]
+	helper = osxkeychain
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+	df = diff
+	lg = log -p

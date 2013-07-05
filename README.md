@@ -1,4 +1,4 @@
 OSX
 ===
 
-Mac OS configuration files
+Some of my modified Mac OS configuration files
