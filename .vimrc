@@ -9,7 +9,6 @@ Plugin 'altercation/vim-colors-solarized' " Colour scheme
 Plugin 'tpope/vim-surround' " Easy bracketing / quoting
 Plugin 'tpope/vim-commentary' " Easy commenting
 Plugin 'kien/ctrlp.vim' " Fuzzy file finder
-Plugin 'scrooloose/nerdtree' " File tree
 Plugin 'bling/vim-airline' " Status bar
 Plugin 'scrooloose/syntastic' " Syntax checking
 
