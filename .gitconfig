@@ -20,3 +20,7 @@
 	co = checkout
 	df = diff
 	lg = log -p
+  add = add --all
+  lp = rev-parse origin/master
+[push]
+	default = simple

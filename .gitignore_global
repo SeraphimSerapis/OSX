@@ -1,5 +1,4 @@
-#########
-# OS X
+S X
 #########
 *~
 *.swp
@@ -15,11 +14,9 @@ thumbs.db
 ########
 *.apk
 *.ap_
-*.jar
 *.keystore
 *.dex
 *.class
-bin/
 gen/
 local.properties
 .classpath
@@ -63,11 +60,16 @@ lib-cov
 *.out
 *.pid
 *.gz
+.grunt
+.lock-wscript
+build/Release
 pids
 logs
+coverage
 results
 npm-debug.log
 node_modules
+
 
 ########
 # Ruby (on Rails)
@@ -94,3 +96,4 @@ node_modules
 .hg
 .svn
 CVS
+
