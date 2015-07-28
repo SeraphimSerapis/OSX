@@ -36,12 +36,16 @@ call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
 Plugin 'bling/vim-airline'
-Plugin 'scrooloose/syntastic'
 Plugin 'majutsushi/tagbar'
 Plugin 'scrooloose/nerdtree'
 Plugin 'pangloss/vim-javascript'
+Plugin 'vim-ruby/vim-ruby'
+Plugin 'digitaltoad/vim-jade'
+Plugin 'tpope/vim-markdown'
+Plugin 'toyamarinyon/vim-swift'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'tpope/vim-surround'
+Plugin 'godlygeek/tabular'
 
 call vundle#end()
 
