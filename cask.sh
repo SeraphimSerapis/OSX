@@ -1,6 +1,7 @@
 # #!/bin/bash
 
 brew cask install java
+brew cask install cheatsheet
 brew cask install imageoptim
 brew cask install istat-menus
 brew cask install google-chrome
